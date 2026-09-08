@@ -1,0 +1,7 @@
+# Normalize line endings
+*.ts linguist-detectable 
+
+*.json linguist-detectable=false
+examples/site/** linguist-vendored
+vendor/* linguist-vendored
+*.tsx linguist-detectable
